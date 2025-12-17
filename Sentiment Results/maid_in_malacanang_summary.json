@@ -1,0 +1,25 @@
+{
+  "movie": "Maid In Malacanang",
+  "total_rows": 9849,
+  "analysis_date": "2025-12-17 23:56:06",
+  "positive_count": 6885,
+  "positive_percentage": 69.91,
+  "neutral_count": 0,
+  "neutral_percentage": 0.0,
+  "negative_count": 2964,
+  "negative_percentage": 30.09,
+  "avg_confidence": 0.874,
+  "min_confidence": 0.5,
+  "max_confidence": 0.998,
+  "avg_confidence_positive": 0.9,
+  "avg_confidence_negative": 0.815,
+  "avg_rating": 75.14,
+  "min_rating": 10.0,
+  "max_rating": 100.0,
+  "avg_rating_positive": 86.35,
+  "avg_rating_negative": 47.9,
+  "sources": {
+    "imdb": 7899,
+    "ltbx": 1950
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "movie": "Hello Love Goodbye",
+  "total_rows": 8759,
+  "analysis_date": "2025-12-17 23:40:01",
+  "positive_count": 6435,
+  "positive_percentage": 73.47,
+  "neutral_count": 0,
+  "neutral_percentage": 0.0,
+  "negative_count": 2324,
+  "negative_percentage": 26.53,
+  "avg_confidence": 0.872,
+  "min_confidence": 0.5,
+  "max_confidence": 0.998,
+  "avg_confidence_positive": 0.905,
+  "avg_confidence_negative": 0.781,
+  "avg_rating": 71.29,
+  "min_rating": 10.0,
+  "max_rating": 100.0,
+  "avg_rating_positive": 73.09,
+  "avg_rating_negative": 66.26,
+  "sources": {
+    "ltbx": 8256,
+    "imdb": 475,
+    "rt": 28
+  }
+}

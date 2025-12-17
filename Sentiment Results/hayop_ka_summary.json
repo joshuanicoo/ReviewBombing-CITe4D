@@ -1,0 +1,26 @@
+{
+  "movie": "Hayop Ka",
+  "total_rows": 2996,
+  "analysis_date": "2025-12-17 23:32:17",
+  "positive_count": 1966,
+  "positive_percentage": 65.62,
+  "neutral_count": 0,
+  "neutral_percentage": 0.0,
+  "negative_count": 1030,
+  "negative_percentage": 34.38,
+  "avg_confidence": 0.854,
+  "min_confidence": 0.5,
+  "max_confidence": 0.998,
+  "avg_confidence_positive": 0.88,
+  "avg_confidence_negative": 0.805,
+  "avg_rating": 54.1,
+  "min_rating": 10.0,
+  "max_rating": 100.0,
+  "avg_rating_positive": 57.88,
+  "avg_rating_negative": 46.8,
+  "sources": {
+    "ltbx": 2778,
+    "imdb": 205,
+    "rt": 13
+  }
+}

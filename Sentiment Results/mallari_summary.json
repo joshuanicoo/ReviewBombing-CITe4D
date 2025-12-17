@@ -1,0 +1,26 @@
+{
+  "movie": "Mallari",
+  "total_rows": 14397,
+  "analysis_date": "2025-12-18 00:07:16",
+  "positive_count": 8819,
+  "positive_percentage": 61.26,
+  "neutral_count": 0,
+  "neutral_percentage": 0.0,
+  "negative_count": 5578,
+  "negative_percentage": 38.74,
+  "avg_confidence": 0.845,
+  "min_confidence": 0.5,
+  "max_confidence": 0.998,
+  "avg_confidence_positive": 0.872,
+  "avg_confidence_negative": 0.801,
+  "avg_rating": 60.3,
+  "min_rating": 10.0,
+  "max_rating": 100.0,
+  "avg_rating_positive": 63.9,
+  "avg_rating_negative": 54.58,
+  "sources": {
+    "ltbx": 14196,
+    "imdb": 179,
+    "rt": 22
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "movie": "Felix Manalo",
+  "total_rows": 93,
+  "analysis_date": "2025-12-17 23:29:45",
+  "positive_count": 52,
+  "positive_percentage": 55.91,
+  "neutral_count": 0,
+  "neutral_percentage": 0.0,
+  "negative_count": 41,
+  "negative_percentage": 44.09,
+  "avg_confidence": 0.819,
+  "min_confidence": 0.507,
+  "max_confidence": 0.997,
+  "avg_confidence_positive": 0.857,
+  "avg_confidence_negative": 0.771,
+  "avg_rating": 32.14,
+  "min_rating": 10.0,
+  "max_rating": 100.0,
+  "avg_rating_positive": 38.94,
+  "avg_rating_negative": 23.51,
+  "sources": {
+    "ltbx": 86,
+    "rt": 7
+  }
+}

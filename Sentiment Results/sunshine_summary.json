@@ -1,0 +1,25 @@
+{
+  "movie": "Sunshine",
+  "total_rows": 34911,
+  "analysis_date": "2025-12-18 00:58:20",
+  "positive_count": 23813,
+  "positive_percentage": 68.21,
+  "neutral_count": 0,
+  "neutral_percentage": 0.0,
+  "negative_count": 11098,
+  "negative_percentage": 31.79,
+  "avg_confidence": 0.855,
+  "min_confidence": 0.5,
+  "max_confidence": 0.998,
+  "avg_confidence_positive": 0.885,
+  "avg_confidence_negative": 0.791,
+  "avg_rating": 90.61,
+  "min_rating": 10.0,
+  "max_rating": 100.0,
+  "avg_rating_positive": 90.53,
+  "avg_rating_negative": 90.77,
+  "sources": {
+    "ltbx": 34705,
+    "imdb": 206
+  }
+}

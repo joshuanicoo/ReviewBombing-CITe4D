@@ -1,0 +1,25 @@
+{
+  "movie": "Praybeyt Benjamin 2",
+  "total_rows": 473,
+  "analysis_date": "2025-12-18 00:08:14",
+  "positive_count": 271,
+  "positive_percentage": 57.29,
+  "neutral_count": 0,
+  "neutral_percentage": 0.0,
+  "negative_count": 202,
+  "negative_percentage": 42.71,
+  "avg_confidence": 0.848,
+  "min_confidence": 0.501,
+  "max_confidence": 0.998,
+  "avg_confidence_positive": 0.879,
+  "avg_confidence_negative": 0.806,
+  "avg_rating": 44.49,
+  "min_rating": 10.0,
+  "max_rating": 100.0,
+  "avg_rating_positive": 51.12,
+  "avg_rating_negative": 35.24,
+  "sources": {
+    "ltbx": 390,
+    "imdb": 83
+  }
+}

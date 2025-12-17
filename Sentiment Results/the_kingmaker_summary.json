@@ -1,0 +1,26 @@
+{
+  "movie": "The Kingmaker",
+  "total_rows": 5006,
+  "analysis_date": "2025-12-18 01:06:37",
+  "positive_count": 3324,
+  "positive_percentage": 66.4,
+  "neutral_count": 0,
+  "neutral_percentage": 0.0,
+  "negative_count": 1682,
+  "negative_percentage": 33.6,
+  "avg_confidence": 0.826,
+  "min_confidence": 0.5,
+  "max_confidence": 0.998,
+  "avg_confidence_positive": 0.853,
+  "avg_confidence_negative": 0.773,
+  "avg_rating": 76.27,
+  "min_rating": 10.0,
+  "max_rating": 100.0,
+  "avg_rating_positive": 77.16,
+  "avg_rating_negative": 74.41,
+  "sources": {
+    "ltbx": 4742,
+    "rt": 139,
+    "imdb": 125
+  }
+}

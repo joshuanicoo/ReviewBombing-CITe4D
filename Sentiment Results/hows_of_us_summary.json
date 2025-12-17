@@ -1,0 +1,26 @@
+{
+  "movie": "Hows Of Us",
+  "total_rows": 9828,
+  "analysis_date": "2025-12-17 23:48:47",
+  "positive_count": 5701,
+  "positive_percentage": 58.01,
+  "neutral_count": 0,
+  "neutral_percentage": 0.0,
+  "negative_count": 4127,
+  "negative_percentage": 41.99,
+  "avg_confidence": 0.847,
+  "min_confidence": 0.5,
+  "max_confidence": 0.998,
+  "avg_confidence_positive": 0.88,
+  "avg_confidence_negative": 0.802,
+  "avg_rating": 69.49,
+  "min_rating": 10.0,
+  "max_rating": 100.0,
+  "avg_rating_positive": 73.42,
+  "avg_rating_negative": 64.02,
+  "sources": {
+    "ltbx": 9420,
+    "imdb": 387,
+    "rt": 21
+  }
+}

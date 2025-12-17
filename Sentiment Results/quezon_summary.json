@@ -1,0 +1,26 @@
+{
+  "movie": "Quezon",
+  "total_rows": 10589,
+  "analysis_date": "2025-12-18 00:17:26",
+  "positive_count": 7705,
+  "positive_percentage": 72.76,
+  "neutral_count": 0,
+  "neutral_percentage": 0.0,
+  "negative_count": 2884,
+  "negative_percentage": 27.24,
+  "avg_confidence": 0.85,
+  "min_confidence": 0.5,
+  "max_confidence": 0.998,
+  "avg_confidence_positive": 0.881,
+  "avg_confidence_negative": 0.768,
+  "avg_rating": 80.06,
+  "min_rating": 10.0,
+  "max_rating": 100.0,
+  "avg_rating_positive": 80.82,
+  "avg_rating_negative": 78.02,
+  "sources": {
+    "ltbx": 10408,
+    "imdb": 169,
+    "rt": 12
+  }
+}
