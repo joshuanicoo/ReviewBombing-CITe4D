@@ -1,0 +1,22 @@
+{
+  "movie_name": "Praybeyt Benjamin 1",
+  "total_reviews": 627,
+  "analysis_date": "2025-12-18 13:22:35",
+  "overall_sentiment": {
+    "positive": 417,
+    "positive_percentage": 66.51,
+    "negative": 210,
+    "negative_percentage": 33.49,
+    "neutral": 0,
+    "neutral_percentage": 0.0
+  },
+  "total_topics": 8,
+  "topic_sentiment_distribution": {
+    "POSITIVE": 7,
+    "NEGATIVE": 0,
+    "NEUTRAL": 0,
+    "MIXED": 0,
+    "MOSTLY_POSITIVE": 1,
+    "MOSTLY_NEGATIVE": 0
+  }
+}

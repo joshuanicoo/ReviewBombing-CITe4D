@@ -1,0 +1,22 @@
+{
+  "movie_name": "Hayop Ka",
+  "total_reviews": 930,
+  "analysis_date": "2025-12-18 12:11:41",
+  "overall_sentiment": {
+    "positive": 620,
+    "positive_percentage": 66.67,
+    "negative": 310,
+    "negative_percentage": 33.33,
+    "neutral": 0,
+    "neutral_percentage": 0.0
+  },
+  "total_topics": 13,
+  "topic_sentiment_distribution": {
+    "POSITIVE": 9,
+    "NEGATIVE": 4,
+    "NEUTRAL": 0,
+    "MIXED": 0,
+    "MOSTLY_POSITIVE": 0,
+    "MOSTLY_NEGATIVE": 0
+  }
+}

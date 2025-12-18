@@ -1,0 +1,5 @@
+﻿topic,topic_size,dominant_sentiment,positive_count,positive_percentage,negative_count,negative_percentage,neutral_count,neutral_percentage,avg_sentiment_score,top_keywords,keyword_string
+0,96,POSITIVE,66,68.75,30,31.25,0,0.0,0.866,"['film', 'vice', 'benjamin', 'ganda', 'vice ganda']","film, vice, benjamin, ganda, vice ganda"
+1,77,NEGATIVE,37,48.05,40,51.95,0,0.0,0.853,"['bakla', 'vice', 'bakla bakla', 'alex', 'ewan']","bakla, vice, bakla bakla, alex, ewan"
+2,65,NEGATIVE,31,47.69,34,52.31,0,0.0,0.814,"['panes', 'boom', 'bomb', 'boom panes', 'bimbee']","panes, boom, bomb, boom panes, bimbee"
+3,15,POSITIVE,10,66.67,5,33.33,0,0.0,0.8,"['zombies', 'vs', 'vs zombies', 'plants', 'plants vs']","zombies, vs, vs zombies, plants, plants vs"

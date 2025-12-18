@@ -1,0 +1,22 @@
+{
+  "movie_name": "Sunshine",
+  "total_reviews": 9091,
+  "analysis_date": "2025-12-18 13:04:33",
+  "overall_sentiment": {
+    "positive": 6728,
+    "positive_percentage": 74.01,
+    "negative": 2363,
+    "negative_percentage": 25.99,
+    "neutral": 0,
+    "neutral_percentage": 0.0
+  },
+  "total_topics": 54,
+  "topic_sentiment_distribution": {
+    "POSITIVE": 41,
+    "NEGATIVE": 12,
+    "NEUTRAL": 0,
+    "MIXED": 0,
+    "MOSTLY_POSITIVE": 1,
+    "MOSTLY_NEGATIVE": 0
+  }
+}

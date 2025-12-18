@@ -1,0 +1,9 @@
+﻿topic,topic_size,dominant_sentiment,positive_count,positive_percentage,negative_count,negative_percentage,neutral_count,neutral_percentage,avg_sentiment_score,top_keywords,keyword_string
+0,458,POSITIVE,306,66.81,152,33.19,0,0.0,0.856,"['vice', 'film', 'ganda', 'vice ganda', 'comedy']","vice, film, ganda, vice ganda, comedy"
+1,60,MOSTLY_POSITIVE,30,50.0,30,50.0,0,0.0,0.786,"['mulan', 'live', 'live action', 'action', 'mulan live']","mulan, live, live action, action, mulan live"
+2,25,POSITIVE,16,64.0,9,36.0,0,0.0,0.805,"['homophobia', 'pro', 'homophobic', 'gay', 'bakla']","homophobia, pro, homophobic, gay, bakla"
+3,22,POSITIVE,21,95.45,1,4.55,0,0.0,0.976,"['welcome home', 'home', 'welcome', 'papsi', 'home papsi']","welcome home, home, welcome, papsi, home papsi"
+4,15,POSITIVE,12,80.0,3,20.0,0,0.0,0.796,"['rotc', 'mandatory', 'service', 'military service', 'mandatory rotc']","rotc, mandatory, service, military service, mandatory rotc"
+5,12,POSITIVE,11,91.67,1,8.33,0,0.0,0.865,"['camp', 'camp camp', 'adult camp', 'adult', 'camp earliest']","camp, camp camp, adult camp, adult, camp earliest"
+6,11,POSITIVE,8,72.73,3,27.27,0,0.0,0.76,"['gay', 'mulan', 'mulan gay', 'gay mulan', 'queen']","gay, mulan, mulan gay, gay mulan, queen"
+7,11,POSITIVE,8,72.73,3,27.27,0,0.0,0.905,"['benjamin', 'private', 'benjie', 'benjamin anymore', 'benjamin enjoy']","benjamin, private, benjie, benjamin anymore, benjamin enjoy"
