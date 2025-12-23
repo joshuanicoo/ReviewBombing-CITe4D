@@ -1,0 +1,5 @@
+﻿topic,topic_size,dominant_sentiment,positive_count,positive_percentage,negative_count,negative_percentage,neutral_count,neutral_percentage,avg_sentiment_score,top_keywords,keyword_string
+0,12,POSITIVE,9,75.0,3,25.0,0,0.0,0.847,"['film', 'manalo', 'church', 'felix manalo', 'felix']","film, manalo, church, felix manalo, felix"
+1,11,POSITIVE,6,54.55,5,45.45,0,0.0,0.724,"['womp', 'par', 'bloc', 'voting', 'bloc voting']","womp, par, bloc, voting, bloc voting"
+2,9,NEGATIVE,2,22.22,7,77.78,0,0.0,0.726,"['niyo', 'tunay', 'gusto', 'naalala', 'actors trip']","niyo, tunay, gusto, naalala, actors trip"
+3,4,NEGATIVE,1,25.0,3,75.0,0,0.0,0.857,"['cult', 'religion', 'classic', 'doctrine', 'entire']","cult, religion, classic, doctrine, entire"

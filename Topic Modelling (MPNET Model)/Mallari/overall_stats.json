@@ -1,0 +1,22 @@
+{
+  "movie_name": "Mallari",
+  "total_reviews": 6002,
+  "analysis_date": "2025-12-18 13:44:51",
+  "overall_sentiment": {
+    "positive": 3454,
+    "positive_percentage": 57.55,
+    "negative": 2548,
+    "negative_percentage": 42.45,
+    "neutral": 0,
+    "neutral_percentage": 0.0
+  },
+  "total_topics": 33,
+  "topic_sentiment_distribution": {
+    "POSITIVE": 20,
+    "NEGATIVE": 12,
+    "NEUTRAL": 0,
+    "MIXED": 0,
+    "MOSTLY_POSITIVE": 1,
+    "MOSTLY_NEGATIVE": 0
+  }
+}

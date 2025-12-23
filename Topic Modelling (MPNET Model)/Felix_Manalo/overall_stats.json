@@ -1,0 +1,22 @@
+{
+  "movie_name": "Felix Manalo",
+  "total_reviews": 43,
+  "analysis_date": "2025-12-18 14:11:13",
+  "overall_sentiment": {
+    "positive": 22,
+    "positive_percentage": 51.16,
+    "negative": 21,
+    "negative_percentage": 48.84,
+    "neutral": 0,
+    "neutral_percentage": 0.0
+  },
+  "total_topics": 4,
+  "topic_sentiment_distribution": {
+    "POSITIVE": 2,
+    "NEGATIVE": 2,
+    "NEUTRAL": 0,
+    "MIXED": 0,
+    "MOSTLY_POSITIVE": 0,
+    "MOSTLY_NEGATIVE": 0
+  }
+}

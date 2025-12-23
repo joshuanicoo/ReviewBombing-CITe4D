@@ -1,0 +1,7 @@
+﻿topic,topic_size,dominant_sentiment,positive_count,positive_percentage,negative_count,negative_percentage,neutral_count,neutral_percentage,avg_sentiment_score,top_keywords,keyword_string
+0,976,POSITIVE,760,77.87,216,22.13,0,0.0,0.851,"['marcos', 'imelda', 'documentary', 'people', 'film']","marcos, imelda, documentary, people, film"
+1,110,NEGATIVE,36,32.73,74,67.27,0,0.0,0.844,"['tangina', 'marcos', 'nyo', 'family tangina', 'tangina nyo']","tangina, marcos, nyo, family tangina, tangina nyo"
+2,77,POSITIVE,45,58.44,32,41.56,0,0.0,0.787,"['imelda', 'ube', 'tangina', 'clout', 'chilling']","imelda, ube, tangina, clout, chilling"
+3,74,NEGATIVE,23,31.08,51,68.92,0,0.0,0.853,"['fuck', 'marcoses', 'fuck marcoses', 'rich', 'marcos']","fuck, marcoses, fuck marcoses, rich, marcos"
+4,49,POSITIVE,31,63.27,18,36.73,0,0.0,0.794,"['truth', 'real truth', 'perception', 'perception real', 'real']","truth, real truth, perception, perception real, real"
+5,35,NEGATIVE,8,22.86,27,77.14,0,0.0,0.919,"['neveragain', 'neverforget', 'forget', 'neveragain neverforget', 'forget neveragain']","neveragain, neverforget, forget, neveragain neverforget, forget neveragain"

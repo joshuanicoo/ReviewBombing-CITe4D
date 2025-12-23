@@ -1,0 +1,22 @@
+{
+  "movie_name": "Hello Love Goodbye",
+  "total_reviews": 3149,
+  "analysis_date": "2025-12-18 12:06:52",
+  "overall_sentiment": {
+    "positive": 2268,
+    "positive_percentage": 72.02,
+    "negative": 881,
+    "negative_percentage": 27.98,
+    "neutral": 0,
+    "neutral_percentage": 0.0
+  },
+  "total_topics": 28,
+  "topic_sentiment_distribution": {
+    "POSITIVE": 24,
+    "NEGATIVE": 4,
+    "NEUTRAL": 0,
+    "MIXED": 0,
+    "MOSTLY_POSITIVE": 0,
+    "MOSTLY_NEGATIVE": 0
+  }
+}

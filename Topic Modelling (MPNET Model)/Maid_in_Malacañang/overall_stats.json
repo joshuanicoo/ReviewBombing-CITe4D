@@ -1,0 +1,22 @@
+{
+  "movie_name": "Maid in Malaca\u00f1ang",
+  "total_reviews": 2007,
+  "analysis_date": "2025-12-18 13:55:32",
+  "overall_sentiment": {
+    "positive": 1303,
+    "positive_percentage": 64.92,
+    "negative": 704,
+    "negative_percentage": 35.08,
+    "neutral": 0,
+    "neutral_percentage": 0.0
+  },
+  "total_topics": 2,
+  "topic_sentiment_distribution": {
+    "POSITIVE": 1,
+    "NEGATIVE": 1,
+    "NEUTRAL": 0,
+    "MIXED": 0,
+    "MOSTLY_POSITIVE": 0,
+    "MOSTLY_NEGATIVE": 0
+  }
+}

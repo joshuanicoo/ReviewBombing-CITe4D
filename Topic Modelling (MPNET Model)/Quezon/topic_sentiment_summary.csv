@@ -1,0 +1,12 @@
+﻿topic,topic_size,dominant_sentiment,positive_count,positive_percentage,negative_count,negative_percentage,neutral_count,neutral_percentage,avg_sentiment_score,top_keywords,keyword_string
+0,1459,POSITIVE,1255,86.02,204,13.98,0,0.0,0.907,"['quezon', 'film', 'like', 'just', 'really']","quezon, film, like, just, really"
+1,298,NEGATIVE,110,36.91,188,63.09,0,0.0,0.831,"['bayan', 'quezon', 'bansa', 'lamang', 'ating']","bayan, quezon, bansa, lamang, ating"
+2,201,NEGATIVE,98,48.76,103,51.24,0,0.0,0.798,"['burat', 'mi', 'joven joven', 'trapo', 'pastilan']","burat, mi, joven joven, trapo, pastilan"
+3,173,POSITIVE,126,72.83,47,27.17,0,0.0,0.798,"['osmeña', 'quezon osmeña', 'quezon', 'sergio', 'osmeña quezon']","osmeña, quezon osmeña, quezon, sergio, osmeña quezon"
+4,97,NEGATIVE,48,49.48,49,50.52,0,0.0,0.829,"['cong', 'cong tv', 'tv', 'jumpscare', 'congtv']","cong, cong tv, tv, jumpscare, congtv"
+5,92,NEGATIVE,34,36.96,58,63.04,0,0.0,0.826,"['yaoi', 'old yaoi', 'old', 'toxic', 'doomed']","yaoi, old yaoi, old, toxic, doomed"
+6,43,POSITIVE,30,69.77,13,30.23,0,0.0,0.831,"['jericho', 'jericho rosales', 'rosales', 'familiar game', 'familiar']","jericho, jericho rosales, rosales, familiar game, familiar"
+7,38,NEGATIVE,2,5.26,36,94.74,0,0.0,0.895,"['kulangot', 'wag', 'kulangot wag', 'binibilog', 'akong']","kulangot, wag, kulangot wag, binibilog, akong"
+8,34,POSITIVE,26,76.47,8,23.53,0,0.0,0.849,"['casey', 'serging', 'casey serging', 'sergie', 'enemies']","casey, serging, casey serging, sergie, enemies"
+9,32,POSITIVE,25,78.12,7,21.88,0,0.0,0.86,"['philippines', 'philippines quezon', 'quezon philippines', 'people philippines', 'people']","philippines, philippines quezon, quezon philippines, people philippines, people"
+10,28,POSITIVE,22,78.57,6,21.43,0,0.0,0.874,"['outlived', 'aguinaldo outlived', 'aguinaldo', 'enrile', 'emilio']","outlived, aguinaldo outlived, aguinaldo, enrile, emilio"

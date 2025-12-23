@@ -1,0 +1,22 @@
+{
+  "movie_name": "Hows of Us",
+  "total_reviews": 4492,
+  "analysis_date": "2025-12-18 14:10:57",
+  "overall_sentiment": {
+    "positive": 2358,
+    "positive_percentage": 52.49,
+    "negative": 2134,
+    "negative_percentage": 47.51,
+    "neutral": 0,
+    "neutral_percentage": 0.0
+  },
+  "total_topics": 38,
+  "topic_sentiment_distribution": {
+    "POSITIVE": 22,
+    "NEGATIVE": 16,
+    "NEUTRAL": 0,
+    "MIXED": 0,
+    "MOSTLY_POSITIVE": 0,
+    "MOSTLY_NEGATIVE": 0
+  }
+}
