@@ -1,0 +1,31 @@
+{
+  "movie_name": "Hello Love Goodbye",
+  "total_reviews": 3149,
+  "total_sentences": 7711,
+  "analysis_date": "2026-01-11 22:38:50",
+  "review_level_sentiment": {
+    "positive": 2168,
+    "positive_percentage": 68.85,
+    "negative": 839,
+    "negative_percentage": 26.64,
+    "neutral": 142,
+    "neutral_percentage": 4.51
+  },
+  "sentence_level_sentiment": {
+    "positive": 5729,
+    "positive_percentage": 74.3,
+    "negative": 1982,
+    "negative_percentage": 25.7,
+    "neutral": 0,
+    "neutral_percentage": 0.0
+  },
+  "total_topics": 26,
+  "topic_sentiment_distribution": {
+    "POSITIVE": 22,
+    "NEGATIVE": 2,
+    "NEUTRAL": 0,
+    "MIXED": 0,
+    "MOSTLY_POSITIVE": 1,
+    "MOSTLY_NEGATIVE": 1
+  }
+}

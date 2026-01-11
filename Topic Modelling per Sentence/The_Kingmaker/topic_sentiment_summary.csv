@@ -1,0 +1,10 @@
+﻿topic,topic_size,dominant_sentiment,positive_count,positive_percentage,negative_count,negative_percentage,neutral_count,neutral_percentage,avg_sentiment_score,top_keywords,keyword_string
+0,463,POSITIVE,405,87.47,58,12.53,0,0.0,0.847,"['marcos', 'imelda', 'documentary', 'philippines', 'film']","marcos, imelda, documentary, philippines, film"
+1,229,NEGATIVE,78,34.06,118,51.53,33,14.41,0.71,"['tangina', 'marcos', 'nyo', 'nyo marcos', 'imelda']","tangina, marcos, nyo, nyo marcos, imelda"
+2,80,POSITIVE,46,57.5,33,41.25,1,1.25,0.799,"['bitch', 'fucking', 'crazy', 'lady', 'delusional']","bitch, fucking, crazy, lady, delusional"
+3,77,POSITIVE,42,54.55,35,45.45,0,0.0,0.79,"['election', 'watch', 'power', 'people', 'president']","election, watch, power, people, president"
+4,75,NEGATIVE,24,32.0,47,62.67,4,5.33,0.799,"['fuck', 'fuck marcoses', 'marcoses', 'rich', 'fucking']","fuck, fuck marcoses, marcoses, rich, fucking"
+5,72,POSITIVE,54,75.0,18,25.0,0,0.0,0.833,"['film', 'documentary', 'really', 'horror', 'people']","film, documentary, really, horror, people"
+6,49,POSITIVE,28,57.14,20,40.82,1,2.04,0.793,"['truth', 'real truth', 'perception', 'perception real', 'real']","truth, real truth, perception, perception real, real"
+7,37,NEGATIVE,11,29.73,25,67.57,1,2.7,0.893,"['neveragain', 'neverforget', 'forget', 'neveragain neverforget', 'neverforget neveragain']","neveragain, neverforget, forget, neveragain neverforget, neverforget neveragain"
+8,27,POSITIVE,23,85.19,4,14.81,0,0.0,0.852,"['kingmaker', 'documentary', 'history', 'film', 'films']","kingmaker, documentary, history, film, films"

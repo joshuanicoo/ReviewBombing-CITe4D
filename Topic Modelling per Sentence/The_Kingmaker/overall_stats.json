@@ -1,0 +1,31 @@
+{
+  "movie_name": "The Kingmaker",
+  "total_reviews": 1548,
+  "total_sentences": 4387,
+  "analysis_date": "2026-01-11 21:52:33",
+  "review_level_sentiment": {
+    "positive": 976,
+    "positive_percentage": 63.05,
+    "negative": 514,
+    "negative_percentage": 33.2,
+    "neutral": 58,
+    "neutral_percentage": 3.75
+  },
+  "sentence_level_sentiment": {
+    "positive": 2972,
+    "positive_percentage": 67.75,
+    "negative": 1415,
+    "negative_percentage": 32.25,
+    "neutral": 0,
+    "neutral_percentage": 0.0
+  },
+  "total_topics": 9,
+  "topic_sentiment_distribution": {
+    "POSITIVE": 6,
+    "NEGATIVE": 3,
+    "NEUTRAL": 0,
+    "MIXED": 0,
+    "MOSTLY_POSITIVE": 0,
+    "MOSTLY_NEGATIVE": 0
+  }
+}
