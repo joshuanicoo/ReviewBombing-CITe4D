@@ -1,0 +1,71 @@
+﻿topic,keyword,bertopic_score,keyword_frequency
+0,marcos,0.0223,97
+0,people,0.022,86
+0,imelda,0.0159,70
+0,just,0.0151,55
+0,documentary,0.0147,51
+0,film,0.014,42
+0,like,0.0126,45
+0,philippines,0.012,38
+0,country,0.0115,38
+0,family,0.0113,45
+1,tangina,0.0661,27
+1,marcos,0.0586,44
+1,nyo,0.0393,6
+1,nyo marcos,0.0347,4
+1,imelda,0.0338,27
+1,tangina nyo,0.03,1
+1,putangina,0.0286,15
+1,family tangina,0.0284,1
+1,niyo,0.0262,13
+1,marcos family,0.0253,1
+2,fuck,0.2449,29
+2,fuck marcoses,0.1449,0
+2,marcoses,0.1351,25
+2,marcoses fuck,0.1066,3
+2,rich,0.0607,6
+2,marcos,0.0405,8
+2,people,0.0365,6
+2,burn,0.0345,3
+2,fuck marcos,0.0338,0
+2,fuck imelda,0.0271,1
+3,real,0.2392,32
+3,truth,0.2357,29
+3,real truth,0.2246,3
+3,perception,0.2123,27
+3,perception real,0.2097,0
+3,truth perception,0.0832,0
+3,real perception,0.0288,0
+3,truth words,0.026,0
+3,belief,0.026,2
+3,states,0.026,2
+4,fuck,0.3664,12
+4,fuck marcos,0.2105,2
+4,fuck marcoses,0.1963,4
+4,marcos fuck,0.1886,0
+4,marcoses,0.1872,6
+4,fucking,0.1634,4
+4,marcos,0.1378,6
+4,marcos fucking,0.1203,0
+4,imelda fuck,0.1203,0
+4,marcoses fuck,0.0886,0
+5,,0.0,18
+5,,0.0,18
+5,,0.0,18
+5,,0.0,18
+5,,0.0,18
+5,,0.0,18
+5,,0.0,18
+5,,0.0,18
+5,,0.0,18
+5,,0.0,18
+6,neveragain,0.7059,7
+6,neveragain neverforget,0.5937,5
+6,neverforget,0.5552,5
+6,forget neveragain,0.3169,0
+6,forget,0.3161,3
+6,neverforget neveragain,0.2763,0
+6,just came,0.1739,1
+6,neverforget forget,0.1739,0
+6,neveragain neveragain,0.1739,0
+6,came forget,0.1739,0

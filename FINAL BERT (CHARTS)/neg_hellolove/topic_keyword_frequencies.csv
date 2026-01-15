@@ -1,0 +1,71 @@
+﻿topic,keyword,bertopic_score,keyword_frequency
+0,film,0.0299,71
+0,like,0.0239,48
+0,just,0.0202,43
+0,really,0.0183,41
+0,character,0.0182,42
+0,story,0.0176,41
+0,ethan,0.0155,46
+0,alden,0.0147,44
+0,romance,0.0135,26
+0,love,0.0123,36
+1,ethan,0.0275,52
+1,mahal,0.0239,29
+1,alden,0.0226,43
+1,sarili,0.0219,31
+1,joy,0.0205,35
+1,tangina,0.0163,21
+1,kathryn,0.0151,24
+1,hirap,0.0145,14
+1,buhay,0.0144,16
+1,pangarap,0.0141,17
+2,alden,0.0463,15
+2,kath,0.0232,5
+2,mahal,0.0216,3
+2,lng,0.021,3
+2,kilig,0.0208,4
+2,toxic,0.0208,4
+2,yawa,0.0201,1
+2,saket,0.0201,3
+2,kuhang,0.0195,3
+2,bro,0.0195,3
+3,film,0.0392,24
+3,love,0.02,12
+3,ibang,0.0173,5
+3,time,0.0166,10
+3,watched,0.0161,8
+3,halatang,0.0151,5
+3,alden,0.0139,10
+3,films,0.0137,5
+3,tapos,0.0136,7
+3,sya,0.0134,3
+4,love,0.0866,15
+4,choose,0.06,5
+4,dreams,0.0538,6
+4,right,0.046,5
+4,hold,0.0454,5
+4,right person,0.0446,4
+4,person,0.0379,4
+4,wrong,0.0373,4
+4,person wrong,0.0349,0
+4,clear,0.0323,2
+5,hong kong,0.0439,16
+5,hong,0.0433,16
+5,kong,0.0406,16
+5,workers,0.0296,9
+5,dan,0.0272,5
+5,hongkong,0.0211,6
+5,joy,0.0179,6
+5,hidup,0.0174,3
+5,job,0.0171,4
+5,life,0.0168,5
+6,sad,0.1242,4
+6,hate life,0.0942,0
+6,poor ugh,0.0942,2
+6,cried,0.089,2
+6,ugh hate,0.089,0
+6,poor,0.0854,2
+6,ugh,0.0802,2
+6,problem,0.0751,2
+6,life,0.0626,2
+6,fuck,0.0621,2
